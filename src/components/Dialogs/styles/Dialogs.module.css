@@ -1,0 +1,15 @@
+.dialogs {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 2fr 6fr;
+      grid-template-columns: 2fr 6fr;
+}
+
+.dialogsItems {
+  padding: 10px;
+}
+
+.messages {
+  padding: 10px;
+}
+/*# sourceMappingURL=Dialogs.module.css.map */
